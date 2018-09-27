@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4229a74c-7e3e-4447-a76f-691cb7a4d2f2" name="Default" comment="" />
+    <list default="true" id="4229a74c-7e3e-4447-a76f-691cb7a4d2f2" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/BioSystem.java" afterPath="$PROJECT_DIR$/src/BioSystem.java" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -36,7 +38,7 @@
         <entry file="file://$PROJECT_DIR$/src/BioSystem.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="337">
-              <caret line="252" column="52" lean-forward="false" selection-start-line="252" selection-start-column="52" selection-end-line="252" selection-end-column="52" />
+              <caret line="168" column="51" lean-forward="false" selection-start-line="168" selection-start-column="51" selection-end-line="168" selection-end-column="51" />
               <folding />
             </state>
           </provider>
@@ -76,8 +78,8 @@
       <list>
         <option value="$PROJECT_DIR$/src/FlatGrowersMain.java" />
         <option value="$PROJECT_DIR$/src/Microhabitat.java" />
-        <option value="$PROJECT_DIR$/src/BioSystem.java" />
         <option value="$PROJECT_DIR$/src/Toolbox.java" />
+        <option value="$PROJECT_DIR$/src/BioSystem.java" />
       </list>
     </option>
   </component>
@@ -304,14 +306,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/FlatGrowersMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="17" lean-forward="false" selection-start-line="0" selection-start-column="17" selection-end-line="0" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Toolbox.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="783">
@@ -330,10 +324,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/FlatGrowersMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="17" lean-forward="false" selection-start-line="0" selection-start-column="17" selection-end-line="0" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/BioSystem.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="337">
-          <caret line="252" column="52" lean-forward="false" selection-start-line="252" selection-start-column="52" selection-end-line="252" selection-end-column="52" />
+          <caret line="168" column="51" lean-forward="false" selection-start-line="168" selection-start-column="51" selection-end-line="168" selection-end-column="51" />
           <folding />
         </state>
       </provider>
